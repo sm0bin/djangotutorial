@@ -8,3 +8,7 @@ media/
 *.log
 *.sqlite3
 venv/
+lib
+bin
+include
+hel.txt
